@@ -1,4 +1,13 @@
+[b]Corporation Management[/b]
+ Anchoring
+ Corporation Management
+ Diplomatic Relations
+ Megacorp Management
+Total Skillpoints in Group: 296,852
+
 [b]Drones[/b]
+ Advanced Drone Interfacing
+ Amarr Drone Specialization
  Caldari Drone Specialization
  Combat Drone Operation
  Drone Durability
@@ -7,14 +16,15 @@
  Drone Sharpshooting
  Drones
  Electronic Warfare Drone Interfacing
+ Fighters
  Gallente Drone Specialization
  Heavy Drone Operation
+ Mining Drone Operation
  Minmatar Drone Specialization
  Repair Drone Operation
- Salvage Drone Operation
  Scout Drone Operation
  Sentry Drone Interfacing
-Total Skillpoints in Group: 3,014,662
+Total Skillpoints in Group: 7,571,310
 
 [b]Electronics[/b]
  Cloaking
@@ -26,17 +36,24 @@ Total Skillpoints in Group: 3,014,662
  Long Range Targeting
  Multitasking
  Propulsion Jamming
+ Sensor Linking
+ Signal Dispersion
+ Signal Suppression
  Signature Analysis
+ Signature Focusing
  Survey
  Target Painting
  Targeting
-Total Skillpoints in Group: 2,290,208
+ Weapon Disruption
+Total Skillpoints in Group: 3,945,661
 
 [b]Engineering[/b]
+ Capital Shield Emission Systems
  EM Shield Compensation
  Energy Emission Systems
  Energy Grid Upgrades
  Energy Management
+ Energy Pulse Weapons
  Energy Systems Operation
  Engineering
  Explosive Shield Compensation
@@ -48,54 +65,105 @@ Total Skillpoints in Group: 2,290,208
  Shield Upgrades
  Tactical Shield Manipulation
  Thermic Shield Compensation
-Total Skillpoints in Group: 5,109,020
+Total Skillpoints in Group: 5,230,589
 
 [b]Gunnery[/b]
  Advanced Weapon Upgrades
+ Capital Hybrid Turret
  Controlled Bursts
  Gunnery
+ Large Artillery Specialization
+ Large Autocannon Specialization
+ Large Blaster Specialization
+ Large Energy Turret
+ Large Hybrid Turret
+ Large Projectile Turret
+ Large Railgun Specialization
+ Medium Artillery Specialization
+ Medium Autocannon Specialization
+ Medium Blaster Specialization
+ Medium Energy Turret
  Medium Hybrid Turret
  Medium Projectile Turret
+ Medium Pulse Laser Specialization
+ Medium Railgun Specialization
  Motion Prediction
  Rapid Firing
  Sharpshooter
+ Small Artillery Specialization
+ Small Autocannon Specialization
+ Small Blaster Specialization
+ Small Energy Turret
  Small Hybrid Turret
  Small Projectile Turret
+ Small Pulse Laser Specialization
+ Small Railgun Specialization
  Surgical Strike
+ Tactical Weapon Reconfiguration
  Trajectory Analysis
  Weapon Upgrades
-Total Skillpoints in Group: 3,646,120
+Total Skillpoints in Group: 20,368,317
 
 [b]Industry[/b]
+ Deep Core Mining
+ Drug Manufacturing
+ Gas Cloud Harvesting
  Industry
+ Mass Production
  Mining
-Total Skillpoints in Group: 53,255
+ Production Efficiency
+ Refinery Efficiency
+ Refining
+Total Skillpoints in Group: 1,952,782
 
 [b]Leadership[/b]
+ Armored Warfare
+ Armored Warfare Specialist
+ Information Warfare
  Leadership
-Total Skillpoints in Group: 256,000
+ Mining Foreman
+ Siege Warfare
+ Siege Warfare Specialist
+ Skirmish Warfare
+ Skirmish Warfare Specialist
+ Warfare Link Specialist
+ Wing Command
+Total Skillpoints in Group: 9,818,510
 
 [b]Mechanics[/b]
- Armor Honeycombing
- Armor Resistance Phasing
  Armor Rigging
+ Astronautics Rigging
+ Capital Remote Armor Repair Systems
+ Capital Repair Systems
+ Drones Rigging
+ Electronic Superiority Rigging
  EM Armor Compensation
+ Energy Weapon Rigging
  Explosive Armor Compensation
  Hull Upgrades
+ Hybrid Weapon Rigging
  Jury Rigging
  Kinetic Armor Compensation
  Launcher Rigging
  Mechanics
+ Nanite Interfacing
+ Nanite Operation
+ Projectile Weapon Rigging
  Remote Armor Repair Systems
  Repair Systems
  Salvaging
  Shield Rigging
+ Tactical Logistics Reconfiguration
  Thermic Armor Compensation
-Total Skillpoints in Group: 2,373,578
+Total Skillpoints in Group: 5,215,201
 
 [b]Missile Launcher Operation[/b]
  Auto-Targeting Missiles
+ Bomb Deployment
+ Cruise Missiles
+ Defender Missiles
  Guided Missile Precision
+ Heavy Assault Missile Specialization
  Heavy Assault Missiles
  Heavy Missile Specialization
  Heavy Missiles
@@ -106,8 +174,10 @@ Total Skillpoints in Group: 2,373,578
  Rapid Launch
  Rockets
  Target Navigation Prediction
+ Torpedo Specialization
+ Torpedoes
  Warhead Upgrades
-Total Skillpoints in Group: 7,719,530
+Total Skillpoints in Group: 10,230,274
 
 [b]Navigation[/b]
  Acceleration Control
@@ -115,61 +185,84 @@ Total Skillpoints in Group: 7,719,530
  Evasive Maneuvering
  Fuel Conservation
  High Speed Maneuvering
+ Jump Drive Calibration
  Jump Drive Operation
  Jump Fuel Conservation
  Navigation
  Warp Drive Operation
-Total Skillpoints in Group: 2,299,600
-
-[b]Planet Management[/b]
- Remote Sensing
-Total Skillpoints in Group: 250
+Total Skillpoints in Group: 6,988,314
 
 [b]Science[/b]
  Archaeology
+ Astrogeology
  Astrometric Acquisition
  Astrometric Pinpointing
  Astrometric Rangefinding
  Astrometrics
+ Biology
  Cybernetics
+ Gallentean Starship Engineering
+ Graviton Physics
  Hacking
  Infomorph Psychology
+ Jump Portal Generation
+ Nanite Control
+ Neurotoxin Recovery
+ Research
  Science
  Thermodynamics
-Total Skillpoints in Group: 2,120,020
+Total Skillpoints in Group: 5,090,951
 
 [b]Social[/b]
  Connections
+ Criminal Connections
  Diplomacy
+ Fast Talk
  Negotiation
- Security Connections
  Social
-Total Skillpoints in Group: 370,103
+Total Skillpoints in Group: 292,116
 
 [b]Spaceship Command[/b]
  Advanced Spaceship Command
+ Amarr Battlecruiser
+ Amarr Battleship
+ Amarr Cruiser
+ Amarr Destroyer
+ Amarr Frigate
+ Amarr Industrial
  Assault Frigates
+ Black Ops
  Caldari Battlecruiser
  Caldari Battleship
  Caldari Cruiser
  Caldari Destroyer
  Caldari Frigate
- Caldari Industrial
  Caldari Strategic Cruiser
+ Capital Ships
+ Command Ships
  Covert Ops
  Gallente Battlecruiser
+ Gallente Battleship
+ Gallente Carrier
  Gallente Cruiser
  Gallente Destroyer
+ Gallente Dreadnought
  Gallente Frigate
+ Gallente Industrial
  Heavy Assault Cruisers
+ Heavy Interdiction Cruisers
+ Interceptors
+ Interdictors
  Logistics
+ Marauders
  Minmatar Battlecruiser
+ Minmatar Battleship
  Minmatar Cruiser
  Minmatar Destroyer
  Minmatar Frigate
- ORE Industrial
+ Recon Ships
  Spaceship Command
-Total Skillpoints in Group: 11,208,236
+Total Skillpoints in Group: 55,266,275
 
 [b]Subsystems[/b]
  Caldari Defensive Systems
@@ -181,17 +274,16 @@ Total Skillpoints in Group: 1,280,000
 
 [b]Trade[/b]
  Contracting
- Retail
  Trade
-Total Skillpoints in Group: 2,165
+Total Skillpoints in Group: 9,424
 
-Total Skillpoints: 41,742,747
-Total Number of Skills:   143
+Total Skillpoints: 133,556,575
+Total Number of Skills:   252
 
-Skills at Level 0:     1
-Skills at Level 1:     4
-Skills at Level 2:     7
-Skills at Level 3:    23
-Skills at Level 4:    48
-Skills at Level 5:    60
+Skills at Level 0:    18
+Skills at Level 1:     7
+Skills at Level 2:    11
+Skills at Level 3:    21
+Skills at Level 4:    61
+Skills at Level 5:   134
 
